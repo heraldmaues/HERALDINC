@@ -1,0 +1,4 @@
+Ferramenta para vê se o PC é compátivel: https://is.gd/1pK1Hl
+Crie a mídia de instalação pela criador da imagem do Windows - Criar imagem ISO, de um duplo clique na imagem iso 
+na barra de endereço da imagem, digite: CMD e de enter e digite o comando abaixo.
+Comando para instalar o win 25h2: setup.exe /Product server /compat IgnoreWarning /MigrateDrivers All
